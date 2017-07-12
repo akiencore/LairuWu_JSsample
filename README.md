@@ -2,13 +2,13 @@
 A code sample of JavaScript from Lairu Wu
 
 COMP2401a3
---------------------------------------------------
+
 Author: Lairu Wu
 Student Number: 100999645
 Operating System: Windows
 Purpose: 
 Source Files: a3Server.js and files in /public_html
---------------------------------------------------
+
 (make sure you have a node environment)
 How to use the program: 
 
